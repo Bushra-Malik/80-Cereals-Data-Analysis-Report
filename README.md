@@ -1,6 +1,5 @@
 # 80 Cereals Data Analysis Report
 
-## Description
 The **80 Cereals Data Analysis** project aims to analyze a dataset containing nutritional information about 80 cereal products. The primary objectives of the project include:
 
 1. **Data Loading**:
