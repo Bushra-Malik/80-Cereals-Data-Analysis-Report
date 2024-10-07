@@ -1,9 +1,6 @@
 # 80 Cereals Data Analysis Report
 
-## Short Description
-The **80 Cereals Data Analysis** project conducts a comprehensive evaluation of nutritional attributes in cereals. It involves data cleaning, exploration of calorie and sugar content, correlation analysis, and visualizations to uncover trends and insights, ultimately aiding consumers and manufacturers in understanding cereal quality.
-
-## Detailed Description
+## Description
 The **80 Cereals Data Analysis** project aims to analyze a dataset containing nutritional information about 80 cereal products. The primary objectives of the project include:
 
 1. **Data Loading**:
